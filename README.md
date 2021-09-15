@@ -19,4 +19,4 @@ e)Obtener el árbol generador mínimo mediante prim o kruskal. (PROCESO)
   - Nicolas 
   - Rocio 
   - Paula
-  - Victor
+  - Victor"# trabajo1grafos-main" 
